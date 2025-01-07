@@ -64,7 +64,7 @@
 	"material_theme_accent_graphite": true,
 	"material_theme_compact_sidebar": true,
 	"swallow_startup_errors": true,
-	"theme": "Default Dark.sublime-theme",
+	"theme": "Material-Theme-Darker.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"index_files": true,
